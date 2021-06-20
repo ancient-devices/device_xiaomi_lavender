@@ -1,2 +1,9 @@
 # QC framework value-adds
 ro.vendor.qti.va_aosp.support=1
+
+# PixelPlusUI OFFICIAL
+ ro.ppui.device_name=Redmi Note 7
+ ro.ppui.version=3.6
+ ro.ppui.version_code=Unicorn
+ ro.ppui.is_official=true
+ ro.ppui.maintainer_name=sohamsen
