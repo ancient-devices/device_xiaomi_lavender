@@ -1,14 +1,14 @@
 [
    {
-   "remote"       : "github",
-   "repository"   : "ancient-devices/vendor_xiaomi_lavender",
-   "target_path"  : "vendor/xiaomi/lavender",
-   "branch"       : "eleven"
+     "remote": "github",
+     "repository": "ancient-devices/vendor_xiaomi_lavender",
+     "target_path": "vendor/xiaomi/lavender",
+     "branch": "eleven"
    },
    {
-   "remote"       : "github",
-   "repository"   : "ancient-devices/kernel_xiaomi_lavender",
-   "target_path"  : "kernel/xiaomi/lavender",
-   "branch"       : "eleven"
+     "remote": "github",
+     "repository": "ancient-devices/kernel_xiaomi_lavender",
+     "target_path": "kernel/xiaomi/lavender",
+     "branch": "eleven"
    } 
 ] 
