@@ -11,6 +11,10 @@ $(call inherit-product, vendor/xiaomi/lavender/lavender-vendor.mk)
 
 PRODUCT_CHARACTERISTICS := nosdcard
 
+# Authsecret HAL
+PRODUCT_PACKAGES += \
+    android.hardware.authsecret@1.0-service
+
 # Boot animation
 TARGET_SCREEN_HEIGHT := 2340
 TARGET_SCREEN_WIDTH := 1080
