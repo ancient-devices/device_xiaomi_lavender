@@ -15,6 +15,8 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_STOCK_ARCORE := true
 TARGET_SUPPORTS_GOOGLE_RECORDER := true
 
+# Ancient
+ANCIENT_OFFICIAL=true
 
 # Inherit from lavender device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
