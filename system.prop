@@ -4,6 +4,9 @@ ro.vendor.qti.va_aosp.support=1
 # CNE
 persist.vendor.cne.feature=1
 
+# Maintainer
+ro.octavi.maintainer= 𝘼 𝘽 𝙍 𝘼 𝙍
+
 # Radio
 DEVICE_PROVISIONED=1
 ril.subscription.types=NV,RUIM
