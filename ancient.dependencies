@@ -1,0 +1,39 @@
+[
+   {
+   "remote"       : "github",
+   "repository"   : "ancient-devices/vendor_xiaomi_lavender",
+   "target_path"  : "vendor/xiaomi/lavender",
+   "branch"       : "twelve"
+   },
+   {
+   "remote"       : "github",
+   "repository"   : "ancient-devices/kernel_xiaomi_lavender",
+   "target_path"  : "kernel/xiaomi/lavender",
+   "branch"       : "twelve"
+   },
+   {
+   "remote"       : "github",
+   "repository"   : "kdrag0n/proton-clang",
+   "target_path"  : "prebuilts/clang/host/linux-x86/clang-proton",
+   "branch"       : "master",
+   "clone-depth"  : "1"
+   },
+   {
+   "remote"       :"github",
+   "repository"   :"AbrarNoob/android_hardware_qcom_media",
+   "target_path"  :"hardware/qcom-caf/msm8998/media",
+   "branch"       :"12"
+   },
+   {
+   "remote"       :"github"
+   "repository"   :"AbrarNoob/android_hardware_qcom_audio",
+   "target_path"  :"hardware/qcom-caf/msm8998/audio",
+   "branch"       :"12"
+   },
+   {
+   "remote"       :"github",
+   "repository"   :"AbrarNoob/android_hardware_qcom_display",
+   "target_path"  :"hardware/qcom-caf/msm8998/display",
+   "branch"       :"12"
+   }
+]
