@@ -25,7 +25,7 @@
    "branch"       :"12"
    },
    {
-   "remote"       :"github"
+   "remote"       :"github",
    "repository"   :"AbrarNoob/android_hardware_qcom_audio",
    "target_path"  :"hardware/qcom-caf/msm8998/audio",
    "branch"       :"12"
