@@ -2,7 +2,7 @@
   {
     "remote":"ancient",
     "repository":"android_hardware_qcom_display",
-    "target_path":"hardware/qcom-caf/sm8150/display"
+    "target_path":"hardware/qcom-caf/msm8998/display"
   },
   {
     "remote":"ancient",
