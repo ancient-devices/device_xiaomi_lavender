@@ -35,5 +35,11 @@
    "repository"   :"AbrarNoob/android_hardware_qcom_display",
    "target_path"  :"hardware/qcom-caf/msm8998/display",
    "branch"       :"12"
+   },
+   {
+   "remote"       :"github",
+   "repository"   :"ArrowOS/android_external_ant-wireless_antradio-library",
+   "target_path"  :"external/ant-wireless/antradio-library",
+   "branch"       :"arrow-12.0"
    }
 ]
